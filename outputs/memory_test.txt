@@ -1,0 +1,2 @@
+Query: what did we discuss transformers
+Response: Transformers use self-attention and are efficient for NLP. The method is computationally efficient and scalable.

@@ -1,0 +1,2 @@
+Query: compare neural networks and transformers
+Response: Transformers use self-attention and are efficient for NLP. The method is computationally efficient and scalable.
